@@ -1,0 +1,4 @@
+streamlit>=1.40
+tensorflow>=2.15
+numpy
+scikit-learn
